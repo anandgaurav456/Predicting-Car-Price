@@ -4,6 +4,7 @@ import pickle
 import numpy as np
 import sklearn
 from sklearn.preprocessing import StandardScaler
+import jsonify
 
 app = Flask(__name__)
 model = pickle.load(open('Reg_RF.pkl','rb'))
