@@ -55,3 +55,4 @@ wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_159293174228
 webencodings==0.5.1
 wincertstore==0.2
 zipp==3.1.0
+gunicorn
