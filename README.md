@@ -11,6 +11,8 @@ Goal: This model was made in order to help new customers in U.S. to get rough es
 <br>
 A basic regression model was developed after pre-processing of the data.
 <br>
-Model: **Random Forest Classifier**
+Model: Random Forest Classifier
 <br>
-Hyper parameter tuning was performed in order to get best results. This was done using **RandomizedSearch**
+Hyper parameter tuning was performed in order to get best results. This was done using RandomizedSearch
+
+Product: FInally the model was deployed on Heroku using Flask
